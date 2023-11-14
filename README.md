@@ -14,7 +14,7 @@
 + 参考文献：
   ![image](中大研究生毕业论文模板--ElphenWang修改20231114/figures/WechatIMG1425.jpg)
   其中红色字体代表有超级链接。点击杂志简称的超级链接会跳转到doi对应的网址，点击arxiv的超级链接会跳转到arxiv对应的网址。
-**注意**：虽然字体颜色花哨，但不会有问题，有特殊需求的，可自行到[sysuthesis.cls](中大研究生毕业论文模板--ElphenWang修改20231114/sysuthesis.cls)自行修改。
+**注意**：虽然字体颜色花哨，但没有问题，中大目前对此没有异议。如有特殊需求的，可自行到[sysuthesis.cls](中大研究生毕业论文模板--ElphenWang修改20231114/sysuthesis.cls)自行修改。
   参考文献的格式选取的是bibtex格式，大家插入自己的参考文献时需注意，也可以直接在谷歌学术中直接拷贝黏贴到tex.bib文件中。
   ![image](中大研究生毕业论文模板--ElphenWang修改20231114/figures/WechatIMG1426.jpg)
 
