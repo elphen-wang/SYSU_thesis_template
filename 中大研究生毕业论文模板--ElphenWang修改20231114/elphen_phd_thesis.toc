@@ -1,0 +1,73 @@
+\contentsline {chapter}{摘\hspace {\ccwd }要}{I}{chapter*.1}%
+\contentsline {chapter}{ABSTRACT}{III}{chapter*.2}%
+\contentsline {chapter}{目\hspace {\ccwd }录}{V}{chapter*.3}%
+\contentsline {chapter}{表格索引}{VII}{section*.4}%
+\contentsline {chapter}{插图索引}{IX}{section*.6}%
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}绪论}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}中微子简介}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}中微子的提出}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}标准模型中的中微子}{1}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}中微子振荡}{1}{section.1.2}%
+\contentsline {section}{\numberline {1.3}中微子实验}{1}{section.1.3}%
+\contentsline {section}{\numberline {1.4}论文立意以及结构}{1}{section.1.4}%
+\contentsline {chapter}{\numberline {附录 A\hspace {.3em}}中国科学技术大学研究生学位论文撰写规范}{3}{appendix.A}%
+\contentsline {section}{\numberline {A.1}内容要求}{3}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}封面}{3}{subsection.A.1.1}%
+\contentsline {subsubsection}{\numberline {A.1.1.1}密级}{3}{subsubsection.A.1.1.1}%
+\contentsline {subsubsection}{\numberline {A.1.1.2}论文题目}{3}{subsubsection.A.1.1.2}%
+\contentsline {subsubsection}{\numberline {A.1.1.3}作者姓名}{3}{subsubsection.A.1.1.3}%
+\contentsline {subsubsection}{\numberline {A.1.1.4}学科专业}{3}{subsubsection.A.1.1.4}%
+\contentsline {subsubsection}{\numberline {A.1.1.5}导师姓名}{3}{subsubsection.A.1.1.5}%
+\contentsline {subsubsection}{\numberline {A.1.1.6}完成时间}{4}{subsubsection.A.1.1.6}%
+\contentsline {subsection}{\numberline {A.1.2}中国科学技术大学学位论文原创性和授权使用声明}{4}{subsection.A.1.2}%
+\contentsline {subsection}{\numberline {A.1.3}摘要和关键词}{4}{subsection.A.1.3}%
+\contentsline {subsubsection}{\numberline {A.1.3.1}中文摘要}{4}{subsubsection.A.1.3.1}%
+\contentsline {subsubsection}{\numberline {A.1.3.2}中文关键词}{4}{subsubsection.A.1.3.2}%
+\contentsline {subsubsection}{\numberline {A.1.3.3}英文摘要与关键词}{4}{subsubsection.A.1.3.3}%
+\contentsline {subsection}{\numberline {A.1.4}目录}{4}{subsection.A.1.4}%
+\contentsline {subsection}{\numberline {A.1.5}符号说明}{4}{subsection.A.1.5}%
+\contentsline {subsection}{\numberline {A.1.6}正文}{4}{subsection.A.1.6}%
+\contentsline {subsubsection}{\numberline {A.1.6.1}绪论}{5}{subsubsection.A.1.6.1}%
+\contentsline {subsubsection}{\numberline {A.1.6.2}论文主体}{5}{subsubsection.A.1.6.2}%
+\contentsline {subsubsection}{\numberline {A.1.6.3}结论}{5}{subsubsection.A.1.6.3}%
+\contentsline {subsection}{\numberline {A.1.7}参考文献}{5}{subsection.A.1.7}%
+\contentsline {subsection}{\numberline {A.1.8}附录}{5}{subsection.A.1.8}%
+\contentsline {subsection}{\numberline {A.1.9}致谢}{5}{subsection.A.1.9}%
+\contentsline {subsection}{\numberline {A.1.10}在读期间发表的学术论文与取得的其他研究成果}{5}{subsection.A.1.10}%
+\contentsline {section}{\numberline {A.2}书写规定}{6}{section.A.2}%
+\contentsline {subsection}{\numberline {A.2.1}论文的字数要求}{6}{subsection.A.2.1}%
+\contentsline {subsection}{\numberline {A.2.2}文字、标点符号和数字}{6}{subsection.A.2.2}%
+\contentsline {subsection}{\numberline {A.2.3}封面与扉页}{6}{subsection.A.2.3}%
+\contentsline {subsubsection}{\numberline {A.2.3.1}秘级}{6}{subsubsection.A.2.3.1}%
+\contentsline {subsubsection}{\numberline {A.2.3.2}题目}{6}{subsubsection.A.2.3.2}%
+\contentsline {subsubsection}{\numberline {A.2.3.3}日期}{6}{subsubsection.A.2.3.3}%
+\contentsline {subsubsection}{\numberline {A.2.3.4}扉页}{6}{subsubsection.A.2.3.4}%
+\contentsline {subsection}{\numberline {A.2.4}目录}{6}{subsection.A.2.4}%
+\contentsline {subsection}{\numberline {A.2.5}摘要与关键词}{7}{subsection.A.2.5}%
+\contentsline {subsubsection}{\numberline {A.2.5.1}摘要}{7}{subsubsection.A.2.5.1}%
+\contentsline {subsubsection}{\numberline {A.2.5.2}关键词}{7}{subsubsection.A.2.5.2}%
+\contentsline {subsection}{\numberline {A.2.6}论文正文}{7}{subsection.A.2.6}%
+\contentsline {subsubsection}{\numberline {A.2.6.1}章节及各章标题}{7}{subsubsection.A.2.6.1}%
+\contentsline {subsubsection}{\numberline {A.2.6.2}序号}{7}{subsubsection.A.2.6.2}%
+\contentsline {paragraph}{标题序号}{7}{paragraph*.8}%
+\contentsline {paragraph}{图表等编号}{7}{paragraph*.9}%
+\contentsline {paragraph}{页码}{8}{paragraph*.10}%
+\contentsline {subsubsection}{\numberline {A.2.6.3}页眉}{8}{subsubsection.A.2.6.3}%
+\contentsline {subsubsection}{\numberline {A.2.6.4}名词和术语}{8}{subsubsection.A.2.6.4}%
+\contentsline {subsubsection}{\numberline {A.2.6.5}量和单位}{8}{subsubsection.A.2.6.5}%
+\contentsline {subsubsection}{\numberline {A.2.6.6}图和表}{8}{subsubsection.A.2.6.6}%
+\contentsline {paragraph}{图}{8}{paragraph*.11}%
+\contentsline {paragraph}{表}{9}{paragraph*.12}%
+\contentsline {subsubsection}{\numberline {A.2.6.7}表达式}{9}{subsubsection.A.2.6.7}%
+\contentsline {subsection}{\numberline {A.2.7}参考文献}{9}{subsection.A.2.7}%
+\contentsline {subsubsection}{\numberline {A.2.7.1}著者-出版年制在正文中的标注方式}{9}{subsubsection.A.2.7.1}%
+\contentsline {subsubsection}{\numberline {A.2.7.2}著者-出版年制参考文献表的编排}{10}{subsubsection.A.2.7.2}%
+\contentsline {subsubsection}{\numberline {A.2.7.3}参考文献标注的注意事项}{10}{subsubsection.A.2.7.3}%
+\contentsline {subsubsection}{\numberline {A.2.7.4}顺序编码制的著录规则}{11}{subsubsection.A.2.7.4}%
+\contentsline {section}{\numberline {A.3}排版和印刷要求}{11}{section.A.3}%
+\contentsline {chapter}{\numberline {附录 B\hspace {.3em}}关于规范本科毕业论文（设计）格式和统一封面的通知}{13}{appendix.B}%
+\contentsline {chapter}{参考文献}{15}{appendix*.13}%
+\contentsline {chapter}{在读期间发表的学术论文与取得的研究成果}{17}{appendix*.14}%
+\contentsline {chapter}{致\hspace {\ccwd }谢}{19}{appendix*.15}%
+\contentsline {chapter}{中山大学学位论文版权使用授权书}{21}{appendix*.16}%
+\contentsfinish 

@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: elphen_phd_thesis.aux
+A level-1 auxiliary file: chapter/abstract.aux
+A level-1 auxiliary file: chapter/chap-intro.aux
+A level-1 auxiliary file: chapter/chap-req.aux
+The style file: sysubib_new.bst
+A level-1 auxiliary file: chapter/bib.aux
+A level-1 auxiliary file: chapter/pub.aux
+A level-1 auxiliary file: chapter/thanks.aux
+A level-1 auxiliary file: chapter/authorization.aux
+Database file #1: bib/tex.bib
+Warning--empty publisher in lshort-cn
+Warning--empty publisher in wang:00a
+Warning--empty publisher in zhang:03a
+You've used 13 entries,
+            2385 wiz_defined-function locations,
+            652 strings with 5557 characters,
+and the built_in function-call counts, 3071 in all, are:
+= -- 305
+> -- 82
+< -- 0
++ -- 35
+- -- 22
+* -- 193
+:= -- 375
+add.period$ -- 23
+call.type$ -- 13
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 205
+empty$ -- 389
+format.name$ -- 22
+if$ -- 817
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 38
+newline$ -- 52
+num.names$ -- 13
+pop$ -- 112
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 75
+stack$ -- 0
+substring$ -- 54
+swap$ -- 48
+text.length$ -- 2
+text.prefix$ -- 2
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 17
+width$ -- 15
+write$ -- 125
+(There were 3 warnings)

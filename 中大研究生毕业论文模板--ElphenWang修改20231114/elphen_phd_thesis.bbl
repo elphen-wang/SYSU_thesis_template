@@ -1,0 +1,69 @@
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{10}
+
+\bibitem{Fogli:2007tx}
+G.~L. Fogli, E.~Lisi, A.~Marrone, D.~Montanino, and A.~Palazzo, {\slshape
+  {Probing non-standard decoherence effects with solar and KamLAND neutrinos},}
+  \href{http://dx.doi.org/10.1103/PhysRevD.76.033006}{{\em Phys. Rev. D}
+  {\bfseries 76} (2007) 033006}, \href{http://arxiv.org/abs/0704.2568}{{
+  arXiv:0704.2568~[hep-ph]}}.
+
+\bibitem{Machado:2011tn}
+P.~A.~N. Machado, H.~Nunokawa, F.~A. Pereira~dos Santos, and
+  R.~Zukanovich~Funchal, {\slshape {Testing Nonstandard Neutrino Properties
+  with a M\"{o}ssbauer Oscillation Experiment},}
+  \href{http://dx.doi.org/10.1007/JHEP11(2011)136}{{\em JHEP} {\bfseries 11}
+  (2011) 136}, \href{http://arxiv.org/abs/1108.3339}{{
+  arXiv:1108.3339~[hep-ph]}}.
+
+\bibitem{lshort-cn}
+C.~翻译小组, {\em lshort中文版3.20}.
+\newblock 2003.
+
+\bibitem{MELLINGER96}
+A.~Mellinger, C.~R. Vidal, and C.~Jungen, {\slshape Laser reduced fluorescence
+  study of the carbon-monoxide nd triplet {R}ydberg series-experimental results
+  and multichannel quantum-defect analysis,} {\em J. Chem. Phys.} {\bfseries
+  104} (1996) 8913--8921.
+
+\bibitem{deng:01a}
+{邓建松,~彭冉冉,~陈长松}, {\em \LaTeXe{}~科技排版指南}.
+\newblock 科学出版社,~书号:~7-03-009239-2/TP.1516, 北京, 2001.
+
+\bibitem{wang:00a}
+王磊, {\em \LaTeXe{}~插图指南}.
+\newblock 2000.
+
+\bibitem{zhang:03a}
+张林波, {\em 关于新版~CCT~的说明}.
+\newblock 2003.
+
+\bibitem{lamport85a}
+L.~Lamport, {\em {LaTeX} --- A Document Preparation System: User's Guide and
+  Reference Manual}.
+\newblock Addison-Wesley, Reading, Massachusetts, 2nd~ed., 1985.
+
+\bibitem{knuth86a}
+D.~E. Knuth, {\em The {TeX}book}, vol.~A of {\em Computers and Typesetting}.
+\newblock Addison-Wesley, Reading, Massachusetts, 1986.
+
+\bibitem{knuth86b}
+D.~E. Knuth, {\em {TeX}: The Program}, vol.~B of {\em Computers and
+  Typesetting}.
+\newblock Addison-Wesley, Reading, Massachusetts, 1986.
+
+\bibitem{knuth86c}
+D.~E. Knuth, {\em The {METAFONT}book}, vol.~C of {\em Computers and
+  Typesetting}.
+\newblock Addison-Wesley, Reading, Massachusetts, 1986.
+
+\bibitem{knuth86d}
+D.~E. Knuth, {\em {METAFONT}: The Program}, vol.~D of {\em Computers and
+  Typesetting}.
+\newblock Addison-Wesley, Reading, Massachusetts, 1986.
+
+\bibitem{knuth86e}
+D.~E. Knuth, {\em Computer Modern Typefaces}, vol.~E of {\em Computers and
+  Typesetting}.
+\newblock Addison-Wesley, Reading, Massachusetts, 1986.
+
+\end{thebibliography}\endgroup
